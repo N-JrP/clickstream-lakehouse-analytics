@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Spark checkpoints / metadata
+data/bronze/_checkpoints/
+data/bronze/streaming_clickstream_events/_spark_metadata/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
