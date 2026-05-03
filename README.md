@@ -3,6 +3,7 @@
 ## 🚀 Live Dashboard
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-brightgreen?logo=streamlit)](https://clickstream-lakehouse-analytics-byp5rcga3bmewsfg5bd5tp.streamlit.app/)
+
 Access the interactive dashboard to explore user behavior, conversion funnel, and product performance insights in real time.
 
 ## Overview
